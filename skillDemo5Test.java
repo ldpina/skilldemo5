@@ -6,6 +6,6 @@ public class skillDemo5Test
     @Test
     public void tester()
     {
-        assertEquals(1, skillDemo5.evenOrOdd(2));
+        assertEquals(0, skillDemo5.evenOrOdd(2));
     }
 }
