@@ -1,3 +1,6 @@
 public class skillDemo5{
-//transfter to VScode
+    public static int evenOrOdd(int x)
+    {
+        return x%2;
+    }
 }
